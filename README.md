@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/NIKHILDK9890/NIKHILDK9890/blob/output/github-snake-dark.svg)
+
 <!--
 **NIKHILDK9890/NIKHILDK9890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
